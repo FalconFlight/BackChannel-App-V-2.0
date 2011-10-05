@@ -101,7 +101,7 @@ div p {
 
 label.label_new_user {
   font-size: 110%;
-  left: 420px;
+  left: 410px;
   top: -20px;
   font-weight: normal;       
   position: relative;       
@@ -109,6 +109,7 @@ label.label_new_user {
 
 
 a.signup_button {
+    border: 2px solid #23245c;
   float: right;
   margin-left: auto;
   margin-right: auto;
@@ -116,33 +117,34 @@ a.signup_button {
   display: inline-block;
   text-align: center;
   width: 190px;
-  color: #fff;
-  background: #058701;
+  color: #244d80;
+  background: #a1e0fd;
   font-size: 150%;
   font-weight: bold;
   padding: 20px;
-  left: -30px;
+  left: -35px;
   top: 10px;
   position: relative
 }
 
 label.label_guest_user {
   font-size: 100%;
-  left: 200px;
+  left: 195px;
   top: 120px;
   font-weight: normal;       
   position: relative;       
 }
 
 a.guest_browse {
-  float: right;           
+    border: 2px solid #23245c;
+  float: right;
   margin-left: auto;
   margin-right: auto;
   display: inline-block;
   text-align: center;
   width: 230px;
   color: #fff;
-  background: #a21424;
+  background: #176bd2;
   font-size: 100%;
   font-weight: bold;
   padding: 1px;
@@ -158,7 +160,7 @@ a.guest_browse {
   text-align: center;
   width: 130px;
   color: #fff;
-  background: #3082e0;
+  background: #2172cf;
   font-size: 100%;
   font-weight: bold;
   padding: 4px;
@@ -189,7 +191,7 @@ a.hyperlink {
   display: inline-block;
   text-align: center;
   width: 190px;
-  color: #fff;
+  color: #1c5996;
   background: #41c2f6;
   font-size: 140%;
   font-weight: bold;
